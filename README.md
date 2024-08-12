@@ -1,6 +1,3 @@
-# Betting-Game-Turtle
----
-
 # 🐢 Simple Turtle Betting Game
 
 Welcome to the **Simple Turtle Betting Game**! This Python project is a fun and interactive application where users can place bets on racing turtles. The game features a graphical interface built with Tkinter for user input, and an exciting race animation using the Turtle module.
@@ -44,7 +41,7 @@ This project is designed to simulate a turtle race where multiple users can part
 4. Watch the turtles race to the finish line!
 5. The winner will be announced in a new Tkinter window.
 
-![Race Start](https://media.giphy.com/media/3ohs7KViF4HHuZS8Ji/giphy.gif)
+![Race Start](https://media1.giphy.com/media/Z65zgsKhP8UCfV3Qg0/200.webp?cid=790b7611atvuboufe680wbmbf1wdmkw9doysv12qoc65q125&ep=v1_gifs_search&rid=200.webp&ct=g)
 
 ## 🛠️ Code Structure
 
