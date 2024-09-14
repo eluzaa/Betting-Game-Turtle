@@ -49,7 +49,7 @@ This project is designed to simulate a turtle race where multiple users can part
 - `README.md`: Documentation for the project.
 
 ## 📈 Future Enhancements
-- Add support for betting with virtual currency.
+- Add support for betting with  virtual currency.
 - Implement different types of tracks or terrains.
 - Allow users to customize their turtles (color, speed boost, etc.).
 
