@@ -41,6 +41,7 @@ This project is designed to simulate a turtle race where multiple users can part
 4. Watch the turtles race to the finish line!
 5. The winner will be announced in a new Tkinter window.
 
+
 ![Race Start](https://media1.giphy.com/media/Z65zgsKhP8UCfV3Qg0/200.webp?cid=790b7611atvuboufe680wbmbf1wdmkw9doysv12qoc65q125&ep=v1_gifs_search&rid=200.webp&ct=g)
 
 ## 🛠️ Code Structure
