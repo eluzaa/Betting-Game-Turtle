@@ -4,7 +4,7 @@ Welcome to the **Simple Turtle Betting Game**! This Python project is a fun and 
 
 ![Turtle Race](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3A0YzhuaGswN2J0bDJqaXF2OXRpazYyMzdmdjdmZnl5bDEwcjZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/od1ZGKWL5bsIlwqR6l/giphy.webp)
  
-## 🎯 Project Overview
+## 🎯 Project Overview 
 
 This project is designed to simulate a turtle race where multiple users can participate. The race is driven by Python's `random` function, making it unpredictable and engaging. Once the race is over, the winner is announced through a Tkinter window.
 
